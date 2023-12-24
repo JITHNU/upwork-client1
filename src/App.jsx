@@ -8,6 +8,7 @@ function App() {
   const mainRef = useRef();
   const item1 = useRef();
   const item2 = useRef();
+  
   const item3 = useRef();
 
   const onSlideChange = (index) => {
